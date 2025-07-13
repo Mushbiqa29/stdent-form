@@ -25,4 +25,4 @@ A modern, responsive web application for student registration with:
 - UI/UX design inspiration
 - JavaScript learning examples
 
-Try it live: [Demo Link]
+Try it live:  https://mushbiqa29.github.io/stdent-form/
